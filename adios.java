@@ -39,5 +39,7 @@ public class Main {
 		listStrings.add(1, "Elemento1-2");
 		System.out.println(listStrings.get(0));
 	}
-
+	public static void saludar(){
+		System.out.println("Hola!! Ten un lindo dia");
+	}
 }
